@@ -1,0 +1,6 @@
+Dodano do bazy dokument: 15258
+Dokument: 15258 - {"studiesAverage": 5.0, "requiredInternships": 0, "number": 15258, "name": "Yaroslav Kohun"}
+Dokument: 15258 - został zaktualizowany (zmieniona wartość pola 'requiredInternships' na 320)
+Dokument: 15258 - {"studiesAverage": 5.0, "requiredInternships": 320, "number": 15258, "name": "Yaroslav Kohun"}
+Dokument: 15258 - został usuniety
+NIE udało się znaleźć dokumentu: 15258 (Dokument: None)
